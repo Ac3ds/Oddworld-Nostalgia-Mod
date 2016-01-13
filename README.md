@@ -1,2 +1,3 @@
 # Oddworld-Nostalgia-Mod
-Not of use yet ignore
+I know it doesn't exactly require a github because it just alternate blob data.
+This is here to host a patch script when the project is finished.
